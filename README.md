@@ -4,4 +4,4 @@
 * etsy: [MarysMilkMonsters](https://www.etsy.com/shop/MarysMilkMonsters)
 
 ## Family Tree
-![Mary's Milk Monster Family Tree](/milkmonstertree.png)
+![Mary's Milk Monster Family Tree](/familytree.png)
